@@ -3,6 +3,6 @@
     Core Modules just for users who want to make or verify somthing as soon as possible whith a low cost.
 
 ## 怎么用 / How to Use
-1. 买一个 / Buy One: [Click](https:taobao.com)
-2. 看说明 / Read Me：[Click](https:pinno.cc)
+1. 买一个 / Buy One: [Click](https://taobao.com)
+2. 看说明 / Read Me：[Click](https://pinno.cc)
 3. 动手做 / Just Do it
