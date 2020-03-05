@@ -1,17 +1,17 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# capacitor_0402B331K500NT
+# capacitor_0402B222K500NT
 #
-DEF capacitor_0402B331K500NT C 0 40 Y Y 1 F N
+DEF capacitor_0402B222K500NT C 0 40 Y Y 1 F N
 F0 "C" -150 100 60 H V C CNN
-F1 "capacitor_0402B331K500NT" 400 100 60 H V C CNN
+F1 "capacitor_0402B222K500NT" 100 150 60 H V C CNN
 F2 "C_0402_1005Metric" -100 -400 60 H I C CNN
-F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1535_1506149260191988342.pdf" -50 -500 60 H I C CNN
+F3 "https://atta.szlcsc.com/upload/public/pdf/source/20170923/C1531_1506149258433988338.pdf" -50 -500 60 H I C CNN
 F4 "Fenghua" 600 -400 50 H I C CNN "Manufacturer"
-F5 "0402B331K500NT" 150 -300 50 H I C CNN "PartNumber"
-F6 "https://item.szlcsc.com/1887.html" 250 -200 50 H I C CNN "Supplier"
-F7 "C1535" 0 -100 50 H I C CNN "Sku"
+F5 "0402B222K500NT" 150 -300 50 H I C CNN "PartNumber"
+F6 "https://item.szlcsc.com/1883.html" 250 -200 50 H I C CNN "Supplier"
+F7 "C1531" 0 -100 50 H I C CNN "Sku"
 DRAW
 S -50 50 -50 -50 0 1 10 N
 S 0 50 0 -50 0 1 10 N
